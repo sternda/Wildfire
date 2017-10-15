@@ -16,4 +16,4 @@ For my final project, I would like to create a web map analyzing wildfire in Ore
   |Chetco Bar Fire                     	|aerial image of chetco bar fire  	|http://wildfiretoday.com/wp-content/uploads/2017/08/SatPhoto_8-22-2017_ChetcoBarFire.jpg	|link to chetco bar fire             	|picture|     
 
 
-![screenshot](ThisPC/Documents/classy/Geog371/project/firepoints.png)
+![screenshot](firepoints.png)
