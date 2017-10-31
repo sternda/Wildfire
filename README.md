@@ -21,4 +21,5 @@ For my final project, I would like to create a web map analyzing wildfire in Ore
 ![chetcointeractive](interactive.png)
 
 #Interface Sketch
+
 ![Interface](assets/websketch.pdf)
