@@ -19,3 +19,6 @@ For my final project, I would like to create a web map analyzing wildfire in Ore
 ![firepoints](firepoints2.png)
 ![southpolygons](southpolygon.png)
 ![chetcointeractive](interactive.png)
+
+#Interface Sketch
+![Interface](assets/websketch.pdf)
